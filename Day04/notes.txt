@@ -1,0 +1,35 @@
+OOP principles
+
+
+#Encapsulation  --> object ---> wrap data
+No access modifires keywords ---public private, protected, static
+
+# inheritance
+
+#polymorphism
+
+
+
+# multiple constructors
+# change object structure
+
+Class Employee{
+    Employee(name, email){}
+    Employee(name, email, salary){}
+}
+
+ public static void add(int:x, int:y){
+ }
+
+ public static void add(int x, int:y, int z){
+ }
+  public static void add(str x, int y, int z){
+ }
+
+add(10,20)
+add()
+add("ahmed", "mona")
+
+# Abstraction
+
+abstract fun1{}
